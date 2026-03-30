@@ -1,4 +1,4 @@
-# fashion-recommendation-system
+# Fashion Recommendation System
 
 https://sara-iqbal.github.io/fashion-recommendation-system/
 
